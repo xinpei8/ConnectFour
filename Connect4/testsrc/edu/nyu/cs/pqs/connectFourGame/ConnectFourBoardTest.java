@@ -1,4 +1,4 @@
-package ConnectFourTest;
+package edu.nyu.cs.pqs.connectFourGame;
 
 import static org.junit.Assert.*;
 
@@ -7,7 +7,7 @@ import org.junit.Test;
 
 import edu.nyu.cs.pqs.connectFourGame.ConnectFourBoard;
 
-public class ConnectFourBoardUtilTest {
+public class ConnectFourBoardTest {
   private static final Logger logger = 
       Logger.getLogger("ConnectFourTest.ConnectFourBoardUtilTest");
 

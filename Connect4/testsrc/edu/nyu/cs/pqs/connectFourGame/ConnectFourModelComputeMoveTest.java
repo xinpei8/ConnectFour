@@ -1,4 +1,4 @@
-package ConnectFourTest;
+package edu.nyu.cs.pqs.connectFourGame;
 
 import static org.junit.Assert.*;
 
